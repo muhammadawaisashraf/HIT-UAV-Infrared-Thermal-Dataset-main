@@ -28,8 +28,4 @@ The detection samples using YOLOv4.
 <img src="./0_readme_images/fig_sample_result.jpg" width="750">
 </div>
 
-## Training Examples
-
-YOLOv8:
-https://www.kaggle.com/code/binh234/yolov8-training-on-hit-uav
 
